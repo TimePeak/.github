@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This is our pet-project, so if you see any errors or flaws, then we are waiting for your pull requests or issue ❤️
+
 <!--
 
 **Here are some ideas to get you started:**
